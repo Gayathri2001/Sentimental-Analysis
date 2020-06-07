@@ -2,7 +2,6 @@
 """
 Created on Wed Dec 19 18:40:06 2018
 
-@author: venka
 """
 
 import tweepy 
